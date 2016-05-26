@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>病房4</key>
+	<array>
+		<string>陆六</string>
+		<string>注射状态：开始于13:34:09</string>
+		<string>进行中</string>
+	</array>
+	<key>病房3</key>
+	<array>
+		<string>王五</string>
+		<string>注射状态：开始于13:34:44</string>
+		<string>进行中</string>
+	</array>
+	<key>病房2</key>
+	<array>
+		<string>李四</string>
+		<string>注射状态：开始于8:39:66</string>
+		<string>进行中</string>
+	</array>
+	<key>病房1</key>
+	<array>
+		<string>张三</string>
+		<string>注射状态：开始于15:34:66</string>
+		<string>结束于:12:33:56</string>
+	</array>
+</dict>
+</plist>

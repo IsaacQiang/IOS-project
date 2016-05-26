@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>病房4</key>
+	<array>
+		<string>氯化钠滴液170ml/h</string>
+		<string>诺氟沙星120ml/h</string>
+		<string>青霉素145ml/h</string>
+	</array>
+	<key>病房3</key>
+	<array>
+		<string>葡萄糖230ml/h</string>
+		<string>葡萄糖酸钙11ml/h</string>
+	</array>
+	<key>病房2</key>
+	<array>
+		<string>诺氟沙星154ml/h</string>
+		<string>青霉素12ml/min</string>
+		<string>氯化钾130ml/h</string>
+	</array>
+	<key>病房1</key>
+	<array>
+		<string>葡萄糖酸钙123ml/h</string>
+		<string>氯化钾55ml/h</string>
+		<string>林可霉素47ml/h</string>
+		<string>青霉素32ml/h</string>
+	</array>
+</dict>
+</plist>
